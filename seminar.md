@@ -1,3 +1,18 @@
+# Команды Git
+### Инициализация репозитория *git init*
+### Добавление файлов *git add .*
+### Проверка статуса репозитория *git status*
+### Внесение изменений git commit -m *"Your short summary about the commit"*
+###  Просмотр истории коммитов *git log*
+### Просмотр изменений до коммита *git diff*
+### Откат последнего коммита *git revert HEAD*
+### Создание новой ветки *git branch new_branch_name*
+### Просмотр списка веток *git branch*
+### Удаление ветки *git branch -d existing_branch_name*
+### Слияние двух веток *git merge existing_branch_name*
+### Прекращение слияния при конфликте *git reset*
+## *Завершение домашней работы*
+
 ## Знакомство с Github.
 1. git checkout -b # создание ветки
 2. git add . # добавить новые, изменённые, удалённые файлы из текущей директории
